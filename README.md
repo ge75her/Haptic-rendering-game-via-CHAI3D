@@ -1,5 +1,5 @@
 # Haptic-rendering-game-via-CHAI3D
-A small football game implement on CHAI3D. The goal is to push the football object from the top right plane to bottom right goal with a suitable force.
+A small game implement on CHAI3D. The goal is to push the football object from the top right plane to bottom right goal with a suitable force.
 ## Setup
 - download CHAI3D open source from [https://www.chai3d.org/download/releases].
 - download this repo
